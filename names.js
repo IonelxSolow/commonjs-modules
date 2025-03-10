@@ -6,3 +6,5 @@ function retFirstLastName (firstName, lastName){
 }
 
 module.exports = retFirstLastName;
+
+/* console.log(retFirstLastName('Vincenzo', 'Gasolio')); */
